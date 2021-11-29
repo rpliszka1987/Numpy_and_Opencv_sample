@@ -1,0 +1,1 @@
+This is earning how to use Numpy and OpenCV for image processsing in Python. 
